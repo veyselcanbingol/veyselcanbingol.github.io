@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "62LZ56PHZC.com.Moor.StoryPointApp",
+        "paths": [
+          "/storypointpoker.github.io/*",
+          "/storypointpoker.github.io/?room=*"
+        ]
+      }
+    ]
+  }
+}

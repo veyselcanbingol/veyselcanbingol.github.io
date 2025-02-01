@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.Moor.StoryPointApp",
+      "sha256_cert_fingerprints": ["EA:5F:71:EE:EF:D1:D1:38:30:B6:E5:7B:67:7C:7B:B1:64:F9:C7:1A:8A:A8:FE:8C:9B:E8:40:2D:21:08:B8:61"]
+    }
+  }]
